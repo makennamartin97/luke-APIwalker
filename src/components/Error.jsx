@@ -12,7 +12,7 @@ const Error = props => {
             <div className="text-center text-danger mt-4">
                 <h6>ERROR: These aren't the droids you're looking for!</h6>
                 <div className="mt-4">
-                    <img className=""  src={pic[0]} width="270px" alt="error"></img>
+                    <img src={pic[0]} width="270px" alt="error"></img>
 
                 </div>
             
