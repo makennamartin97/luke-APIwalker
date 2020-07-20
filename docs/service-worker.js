@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/luke-APIwalker/precache-manifest.d892db26bd64051667a06b4d86d0000d.js"
+  "/luke-APIwalker/precache-manifest.df1c2579d2a0233a37eab31852ffb90b.js"
 );
 
 self.addEventListener('message', (event) => {
