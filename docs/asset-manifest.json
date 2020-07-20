@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/luke-APIwalker/static/css/main.de6cd177.chunk.css",
+    "main.js": "/github.io/luke-APIwalker/static/js/main.09d0cdca.chunk.js",
+    "main.js.map": "/github.io/luke-APIwalker/static/js/main.09d0cdca.chunk.js.map",
+    "runtime-main.js": "/github.io/luke-APIwalker/static/js/runtime-main.c08d939a.js",
+    "runtime-main.js.map": "/github.io/luke-APIwalker/static/js/runtime-main.c08d939a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/github.io/luke-APIwalker/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f222b262.chunk.js": "/github.io/luke-APIwalker/static/js/2.f222b262.chunk.js",
+    "static/js/2.f222b262.chunk.js.map": "/github.io/luke-APIwalker/static/js/2.f222b262.chunk.js.map",
+    "index.html": "/github.io/luke-APIwalker/index.html",
+    "precache-manifest.a8f8b9a72dd68c2b43de463fee488bb7.js": "/github.io/luke-APIwalker/precache-manifest.a8f8b9a72dd68c2b43de463fee488bb7.js",
+    "service-worker.js": "/github.io/luke-APIwalker/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/github.io/luke-APIwalker/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.de6cd177.chunk.css.map": "/github.io/luke-APIwalker/static/css/main.de6cd177.chunk.css.map",
+    "static/js/2.f222b262.chunk.js.LICENSE.txt": "/github.io/luke-APIwalker/static/js/2.f222b262.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c08d939a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f222b262.chunk.js",
+    "static/css/main.de6cd177.chunk.css",
+    "static/js/main.09d0cdca.chunk.js"
+  ]
+}

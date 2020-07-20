@@ -1,11 +1,17 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.jumbotron {
+  text-align: center;
+  background-color: #00008B !important;
+  color: white;
 }
+
+h4 {
+  color: #00008B;
+  
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
